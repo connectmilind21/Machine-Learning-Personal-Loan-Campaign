@@ -1,5 +1,5 @@
 # Personal-Loan-Campaign-Machine-Learning
-Machine Learning Project
+This project aims to identify bank customers with a high likelihood of purchasing a loan. By analyzing customer data, we explore key attributes influencing loan acquisition and build a predictive model to help the bank target potential buyers more effectively—boosting marketing efficiency and conversion rates.
 
 
 # 🏦 Loan Purchase Prediction using Decision Tree
